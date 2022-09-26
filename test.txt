@@ -4,5 +4,6 @@ kitchen
 milk
 eggs
 bread
+sugar
 
 thank you
