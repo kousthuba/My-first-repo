@@ -5,5 +5,7 @@ milk
 eggs
 bread
 sugar
+oil salt
 
 thank you
+Done
