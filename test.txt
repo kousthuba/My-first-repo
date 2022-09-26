@@ -7,5 +7,12 @@ bread
 sugar
 oil salt
 
+drinks
+water
+orange juice
+apple juice
+
 thank you
 Done
+
+final copy
